@@ -1,0 +1,5 @@
+transformers==4.36.1
+pandas==2.0.0
+requests==2.31.0
+ipykernel==6.27.1
+torch==2.1.2
